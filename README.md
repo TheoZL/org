@@ -47,13 +47,13 @@ Tecnologías Utilizadas
 
 # Autor
 
-Desarrollado por Theo Zuñiga
-GitHub: TheoZL
-LinkedIn: Theo Zuñiga
+_Desarrollado por Theo Zuñiga
+_GitHub: TheoZL
+_LinkedIn: Theo Zuñiga
 
 Licencia
-	Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE para obtener más información.
+	* Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE para obtener más información.
 Notas adicionales
-	Si encuentras algún error o tienes sugerencias para mejorar la herramienta, ¡no dudes en crear un issue en este repositorio! 😊
+	* Si encuentras algún error o tienes sugerencias para mejorar la herramienta, ¡no dudes en crear un issue en este repositorio! 😊
  
-Avísame si necesitas agregar algo más o realizar ajustes. 🚀
+# Avísame si necesitas agregar algo más o realizar ajustes. 🚀

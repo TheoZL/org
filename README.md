@@ -1,8 +1,9 @@
-# React + Vite
+#Org App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Org App es una herramienta web que permite crear equipos de trabajo, agregar colaboradores, personalizar colores de los equipos y gestionar colaboradores favoritos mediante un sistema de “likes”.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Características
+	•	Gestión de Equipos: Crea equipos de trabajo y asigna colaboradores a cada uno.
+	•	Personalización de Colores: Personaliza el color de cada equipo, con la opción de cambiarlo en cualquier momento.
+	•	Colaboradores Favoritos: Marca a los colaboradores como favoritos con un simple clic en el botón de “like”.
+	•	Interfaz Intuitiva: Una experiencia de usuario amigable y fácil de navegar.

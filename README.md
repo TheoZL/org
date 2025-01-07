@@ -15,11 +15,10 @@ Tecnologías Utilizadas
 
 # Instalación y Uso
 
-Clona este repositorio:
-git clone https://github.com/TheoZL/org.git
-cd org_app
+1. Clona este repositorio:
 
-
+	   git clone https://github.com/TheoZL/org.git
+       cd org_app
 
 
 

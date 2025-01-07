@@ -15,12 +15,45 @@ Tecnologías Utilizadas
 
 # Instalación y Uso
 
-1. Clona este repositorio:
+1. 	Clona este repositorio:
 
-	   git clone https://github.com/TheoZL/org.git
-       cd org_app
+	   	git clone https://github.com/TheoZL/org.git
+       		cd org_app
+2.	Instala las dependencias:
 
+		npm install
+3.	Ejecuta en modo desarrollador:
+   
+   		npm run build
+4.	Construye el proyecto para producción:
 
+   		npm install -g serve
+		serve -s dist
+5.	Sirve el proyecto en producción:
+   
+		npm install -g serve
+		serve -s dist
 
-3.	Instala las dependencias:
-4.	Ejecuta en modo desarrollador:
+# Cómo Usar
+1.	Crear Equipos:
+	•	Ingresa un nombre para el equipo.
+	•	Selecciona un color inicial para identificar al equipo.
+2.	Agregar Colaboradores:
+	•	Completa los datos del colaborador y asígnalo a un equipo.
+3.	Cambiar Colores:
+	•	Ajusta los colores de los equipos para personalizarlos según tus preferencias.
+4.	Seleccionar Favoritos:
+	•	Marca a tus colaboradores favoritos con un “like”.
+
+# Autor
+
+Desarrollado por Theo Zuñiga
+GitHub: TheoZL
+LinkedIn: Theo Zuñiga
+
+Licencia
+	Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE para obtener más información.
+Notas adicionales
+	Si encuentras algún error o tienes sugerencias para mejorar la herramienta, ¡no dudes en crear un issue en este repositorio! 😊
+ 
+Avísame si necesitas agregar algo más o realizar ajustes. 🚀
